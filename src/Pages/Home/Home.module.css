@@ -1,0 +1,12 @@
+.background{
+    background-image: url('./header1.jpg');
+    height: 100vh;
+    width: auto;
+    align-items: center;
+    background-size: cover;
+}
+.backgroundContext{
+    display: grid;
+    place-items: center;
+    font-size: xx-large;
+}

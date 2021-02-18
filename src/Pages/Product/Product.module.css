@@ -1,0 +1,26 @@
+.heading{
+    text-align: center;
+    font-size:  50px !important;    
+}
+
+.cartbtn{
+    display: grid;
+    font-size: 20px !important;
+    background-color: #538FFB !important;
+    color: white !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.cartbtn:hover{
+    background-color: #383CC1 !important;
+}
+.price{
+    font-size: xx-large;
+    font-weight: bolder !important;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #538FFB;
+}
+.price:hover{
+    border-bottom: 3px solid red;
+    width: 60px;
+}

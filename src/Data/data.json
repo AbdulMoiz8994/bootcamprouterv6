@@ -25,7 +25,7 @@
       
 
       {
-          "_productId": 4,
+          "_productId": 3,
           "name": "Nike Flex Runner",
           "price": 56,
           "description": "The Nike Flex Runner is built to be light and flexible to help you feel fast on your feet. The stretchy slip-on design has leather on the sides to create structure and support while you run. A flexible foam sole provides lightweight cushioning.",
@@ -34,7 +34,7 @@
       },
 
       {
-          "_productId": 5,
+          "_productId": 4,
           "name": "Nike Metcon 6 X",
           "price": 99,
           "description": "The most breathable version yet, the Nike Metcon 6 X helps keep your foot cool when you're going full steam. It stands up to the push and pull of heavily weighted and high-intensity workouts.",
@@ -42,12 +42,11 @@
           
       },
       {
-          "_productId": 6,
+          "_productId": 5,
           "name": "Nike Air Zoom Speed",
           "price": 87,
           "description": "Look fast and feel faster in the Nike Air Zoom Speed. Our iconic Zoom Air pods are made just right for kids. So lightweight all around and cushioned where needed, you’ll be zooming around the neighborhood and track in no time.",
-          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/78f21de6-bdcb-4c96-909c-076cbca1e051/air-zoom-speed-little-big-kids-running-shoe-bW4W4n.jpg"
-          
+          "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/78f21de6-bdcb-4c96-909c-076cbca1e051/air-zoom-speed-little-big-kids-running-shoe-bW4W4n.jpg"         
       }
 
       

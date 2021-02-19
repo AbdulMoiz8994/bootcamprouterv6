@@ -35,7 +35,7 @@ jobs:
       - name: Installing yarn
         uses: Borales/actions-yarn@v2.1.0
         with: 
-          cmd: insatll  #it will insatlll all remaining folder files just like node_modules
+          cmd: install  #it will insatlll all remaining folder files just like node_modules
    
       - name: Yarn Build
         run: sudo yarn build

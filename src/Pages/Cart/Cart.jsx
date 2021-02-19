@@ -10,25 +10,16 @@ import FavoriteIcon from '@material-ui/icons/Favorite';
 const useStyles = makeStyles((theme) => ({
     root: {
       maxWidth: 345,
-      width: '100vw',
-      border: '3px solid gray',
-      position: 'relative',
-      top: '50px',
-      left: '40em'
+      width: '700px',
+      padding: '16px',
+    margin:'50px',
+    alignItems: 'center',
+    textAlign: 'center',
+    border: '10px solid gary'
     },
     media: {
       height: 0,
       paddingTop: '56.25%', // 16:9
-    },
-    expand: {
-      transform: 'rotate(0deg)',
-      marginLeft: 'auto',
-      transition: theme.transitions.create('transform', {
-        duration: theme.transitions.duration.shortest,
-      }),
-    },
-    expandOpen: {
-      transform: 'rotate(180deg)',
     },
     avatar: {
       backgroundColor: '#383CC1',
